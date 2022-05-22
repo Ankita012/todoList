@@ -1,0 +1,26 @@
+.navbar { 
+    position: relative;
+    font-size: 18px !important;
+}
+.user-name {
+    position: absolute;
+    right: 10px;
+    width: 300px;
+}
+.email {
+    display: inline-block;
+    width: 60%;
+    text-align: right;
+    padding: 15px;
+}
+.logout-btn {
+    display: inline-block;
+    background: #dc4242;
+    color: #fff;
+    font-weight: 500;
+    padding: 8px 5px;
+    border: none;
+    border-radius: 4px;
+    width: 25%;
+    font-size: 15px;
+}

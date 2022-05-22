@@ -1,0 +1,59 @@
+.btn-Grid .MuiButton-text {
+    padding: 6px 8px;
+    font-size: 12px;
+    font-weight: 500;
+    background: #1e61b9;
+    color: #fff;
+    width: 80%;
+}
+.btn-Grid {
+    padding: 20px 15px !important;
+}
+.dialog-actions {
+   margin-top: 2rem;
+   border-top:1px solid #eee;
+   text-align: center;
+   display: inline !important;
+}
+.cancel-btn {
+    background: #d30000 !important;
+    color: #fff !important;
+    width: 15%;
+}
+.MuiButton-root {
+    width: 120px;
+}
+.MuiButton-root:hover {
+    text-decoration: none;
+    background-color: cornflowerblue !important;
+}
+.cancel-btn:hover{
+    background: #d30000 !important;
+}
+.list-container {
+    border: 1px solid #d2caca;
+    margin: 15px;
+    padding: 15px;
+}
+.file-show {
+    display: inline-block;
+    margin-top: 1rem;
+}
+.file-hide {
+    display: none;
+}
+.file-icon {
+    font-size: 34px !important;
+    color: #847d7d;
+}
+.MuiTypography-body2 {
+    font-size: 1.2rem !important;
+}
+@media screen and (max-width:500px) {
+    .btn-Grid {
+        padding: 20px 5px !important;
+    }
+    .btn-Grid .MuiButton-text {
+        width: 100%;
+    }
+}

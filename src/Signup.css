@@ -1,0 +1,22 @@
+.login {
+    text-align: center;
+}
+.Signup-container {
+    margin-top: 5rem;
+    border-radius: 20px;
+    border: 1px solid #eee;
+    padding: 1rem 4rem !important;
+    background: #f6f6f6;
+    text-align: left;
+}
+.btn {
+    margin: 2rem 0 !important;
+}
+.new-user-text {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.MuiButton-contained.Mui-disabled {
+    background: #687cec !important;
+    color: #fff !important;
+}
